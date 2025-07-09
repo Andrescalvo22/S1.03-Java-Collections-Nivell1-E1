@@ -1,42 +1,43 @@
-# 📄Descripció - Enunciat de l'exercici
+📄Description – Exercise Statement
+Create the Month class with a name attribute.
+Add all 12 months to an ArrayList (inserting "August" in its correct position).
+Convert the list into a HashSet and verify that there are no duplicates.
+Iterate through the collection using both a for loop and an Iterator.
 
-Crear la classe **Month** amb l’atribut `name`.  
-Afegir els 12 mesos a un `ArrayList` (inserint "Agost" a la seva posició correcta).  
-Convertir la llista en un `HashSet` i comprovar que no hi ha duplicats.  
-Recórrer la col·lecció amb un `for` i un `Iterator`.
+💻Technologies Used
+Java SE 21
 
+Data structures: ArrayList, HashSet, Iterator
 
-# 💻Tecnologies Utilitzades
+IDE (IntelliJ, Eclipse, etc.)
 
-- Java SE 11  
-- Estructures de dades: `ArrayList`, `HashSet`, `Iterator`  
-- IDE (IntelliJ, Eclipse, etc.)
+📋Requirements
+Java JDK 21 or higher
 
-# 📋Requisits
+Basic knowledge of Java data structures
 
-- Java JDK 11 o superior  
-- Coneixement bàsic d’estructures de dades en Java  
-- Ús d’iteradors i col·leccions
+Use of iterators and collections
 
-# 🛠️Instal·lació
+🛠️Installation
+Clone or download the project.
 
-1. Clonar o descarregar el projecte.  
-2. Obrir-lo en el teu IDE.  
-3. Compilar la classe `Month` i la classe principal.
+Open it in your IDE.
 
-# ▶️Execució
+Compile the Month class and the main class.
 
-Executar la classe principal que:
+▶️Execution
+Run the main class that:
 
-1. Crea i ordena els mesos dins d’un `ArrayList`.  
-2. Insereix el mes "Agost" a la posició correcta.  
-3. Converteix la llista en un `HashSet` per eliminar possibles duplicats.  
-4. Mostra el contingut de la col·lecció amb un bucle `for` i amb un `Iterator`.
+Creates and orders the months in an ArrayList.
 
-# 🌐Desplegament
+Inserts the month "August" in the correct position.
 
-Aquest projecte està pensat per a ser executat localment com a pràctica, per tant, no disposa d’un procés específic de desplegament.
+Converts the list into a HashSet to remove possible duplicates.
 
-# 🤝Contribucions
+Displays the collection contents using a for loop and an Iterator.
 
-Fer fork, crear branca, commit i enviar pull request.
+🌐Deployment
+This project is intended to be run locally as a practice exercise, and therefore has no specific deployment process.
+
+🤝Contributions
+Fork the repository, create a branch, commit your changes, and submit a pull request.
